@@ -25,7 +25,7 @@ function Contact() {
                         <i className="bx bx-mail-send contact__card-icon"></i>
 
                         <h3 className="contact__card-title">Email</h3>
-                        <span className="contact__card-data">user@gmail.com</span>
+                        <span className="contact__card-data">ksitizchaturvedi@gmail.com</span>
 
                         <a href="mailto:examplemail@gmail.com.com" className="contact__button">Write me 
                         <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
@@ -34,7 +34,7 @@ function Contact() {
                         <i className="bx bxl-whatsapp contact__card-icon"></i>
 
                         <h3 className="contact__card-title">Whatsapp</h3>
-                        <span className="contact__card-data">999-888-777</span>
+                        <span className="contact__card-data">7417598875</span>
 
                         <a href="https://api.whatsapp.com/send?phone=62214408789&text=Hello, more information!" className="contact__button">Write me 
                         <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
@@ -43,7 +43,7 @@ function Contact() {
                         <i className="bx bxl-messenger contact__card-icon"></i>
 
                         <h3 className="contact__card-title">Messenger</h3>
-                        <span className="contact__card-data">user.fb123</span>
+                        <span className="contact__card-data">@kshitij6336</span>
 
                         <a href="https://m.me/crypticalcoder" className="contact__button">Write me 
                         <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
