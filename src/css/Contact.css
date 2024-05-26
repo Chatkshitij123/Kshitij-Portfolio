@@ -50,7 +50,7 @@
     transition: 0.3s;
 }
 .contact__button:hover .contact__button-icon{
-    transform: translate(00.25rem);
+    transform: translate(0.25rem);
 }
 .contact__form{
     width: 360px;

@@ -22,6 +22,6 @@ export const Data = [
     image: Image3,
     title: "Ashrita Messi",
     description:
-      "Our company’s need for a reliable and scalable chat application was met perfectly by Kshitij Chaturvedi. From the sleek and intuitive front-end design to the powerful and efficient back-end infrastructure, every aspect of the project was handled with utmost professionalism. The real-time messaging features work flawlessly, and the user experience has been exceptional. [Your Name] not only met our expectations but exceeded them by delivering a robust solution ahead of schedule. We highly recommend their full stack development services.",
+      "Our company’s need for a reliable and scalable chat application was met perfectly by Kshitij Chaturvedi. From the sleek and intuitive front-end design to the powerful and efficient back-end infrastructure, every aspect of the project was handled with utmost professionalism. The real-time messaging features work flawlessly, and the user experience has been exceptional. He not only met our expectations but exceeded them by delivering a robust solution ahead of schedule. We highly recommend their full stack development services.",
   },
 ];
