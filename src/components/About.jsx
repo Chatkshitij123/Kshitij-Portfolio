@@ -1,7 +1,7 @@
 import React from 'react';
 import "../css/About.css";
 import AboutImg from "../assets/About.jpg";
-import CV from "../assets/KsitizChaturvedi.pdf";
+import CV from "../assets/KsitizChaturvediresume.pdf";
 import Info from './Info';
 
 export default function About() {
@@ -16,7 +16,7 @@ export default function About() {
           <div className="about_data">
             <Info/>
             <p className="about__description">FullStack Developer,
-            I create web pages with UI / UX user interface, I have 1 year of experience in making robust applications
+            I create web pages with UI / UX user interface, I have more than 2 years of experience in making robust applications
             and my clients are happy with the projects carried out.</p>
 
             <a download="" href={CV} className="button button--flex">Download CV
