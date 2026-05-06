@@ -8,7 +8,16 @@ function Contact() {
       e.preventDefault();
   
       emailjs.sendForm('service_kz48t5d', 'template_099ya8h', form.current, 'd8IYt1GtTvGULIWNy')
-       e.target.reset()
+       .then((result) => {
+    console.log(result.text);
+    alert("Email sent successfully!");
+    e.target.reset();
+  })
+  .catch((error) => {
+    console.log(error.text);
+    alert("Failed to send email");
+  });
+};
     };
 
   return (
